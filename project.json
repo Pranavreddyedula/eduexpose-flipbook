@@ -1,0 +1,22 @@
+{
+  "overview": "An interactive flipbook-style digital brochure for EduExpose's Summer Internship Program, featuring smooth page-flip animations and professional edu-tech design across 4 program phases.",
+  "features": [
+    "Animated flipbook with page-flip transitions",
+    "Cover page with EduExpose branding",
+    "4 phase program pages with detailed content",
+    "Navigation controls with page indicators",
+    "Professional edu-tech visual design",
+    "Closing call-to-action page",
+    "Responsive layout for desktop and tablet"
+  ],
+  "category": "education",
+  "tags": [
+    "flipbook",
+    "brochure",
+    "education",
+    "internship",
+    "interactive",
+    "animation"
+  ],
+  "last_updated": "2026-05-17T10:10:06.531Z"
+}
